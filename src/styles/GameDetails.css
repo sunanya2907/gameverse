@@ -1,0 +1,8 @@
+.details-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 6px 15px rgba(0,0,0,0.1); margin-top: 1.5rem; }
+.dark-mode .details-card { background: #16213e; }
+.details-image { width: 100%; height: 400px; object-fit: cover; }
+.details-content { padding: 2rem; }
+.genre-badge { background: #6200ea; color: white; padding: 5px 12px; border-radius: 20px; display: inline-block; margin: 10px 0; }
+.description { line-height: 1.6; font-size: 1.1rem; margin: 20px 0; }
+.btn-website { display: inline-block; background: #00b894; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; }
+.back-link { text-decoration: none; color: #6200ea; font-weight: bold; font-size: 1.1rem; }

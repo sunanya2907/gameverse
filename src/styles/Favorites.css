@@ -1,0 +1,31 @@
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-top: 2rem;
+}
+
+.dark-mode .empty-state {
+  background-color: #16213e;
+}
+
+.empty-state h2 {
+  color: #6200ea;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.dark-mode .empty-state h2 {
+  color: #4db8ff;
+}
+
+.empty-state p {
+  font-size: 1.1rem;
+  color: #666;
+}
+
+.dark-mode .empty-state p {
+  color: #aaa;
+}
